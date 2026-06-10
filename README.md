@@ -296,11 +296,6 @@ For issues and questions:
 2. Review documentation in `/docs` folder
 3. Create a new issue with detailed description
 
-## 👥 Team
-
-- Project Lead: [Your Name]
-- Backend Developer: [Your Name]
-- Frontend Developer: [Your Name]
 
 ## 🙏 Acknowledgments
 
